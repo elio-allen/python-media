@@ -14,3 +14,5 @@ If you're running [elio2.txt](https://github.com/Moa-IcI/python-media/tree/main/
 But you can run a v1 media file on v3 software.  
 
 For this project, there's two modes. shell and GUI. If you are running it in IDLE I reccomend using the GUI version or you will get a big mess. If you're running this headless, you can run it in your shell but you may not have audio.
+
+Make sure to check [requirements.txt](https://github.com/Moa-IcI/python-media/blob/main/requirements.txt) to be sure you have all the required packages
