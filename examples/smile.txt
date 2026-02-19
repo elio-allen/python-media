@@ -1,0 +1,11 @@
+*This is a comment*
+
+%5x6% *this is the size of the canvas, then here is the data:*
+@100@ *this is the size of a pixel in tkinter viewer. size of image pixel in screen pixels.*
+
+11111
+17171
+11111
+71117
+17771
+11111
